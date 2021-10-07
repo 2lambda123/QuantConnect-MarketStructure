@@ -1,4 +1,4 @@
-# Market Structure
+# Advanced Stock Screening
 
 ![DBs](https://github.com/escapethegrip/MarketStructure/blob/main/images/double-bottoms.png)
 
