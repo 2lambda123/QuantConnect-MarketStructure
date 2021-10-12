@@ -1,8 +1,8 @@
-# Advanced Stock Screening
+# Advanced Stock Screening Function For QuantConnect
 
 ![DBs](https://github.com/escapethegrip/MarketStructure/blob/main/images/double-bottoms.png)
 
-This code is to detect advanced market structure patterns when screening for assets. For more detail about its motivation, see [here](https://escapethegrip.medium.com/revamping-stock-screening-with-precise-code-cc4b034d5ef8 "here").
+This code is to detect advanced market structure patterns when screening for assets, using QuantConnect. For more detail about its motivation, see [here](https://escapethegrip.medium.com/revamping-stock-screening-with-precise-code-cc4b034d5ef8 "here").
 
 ------------
 
